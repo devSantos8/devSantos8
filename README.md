@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 Actualmente soy estudiante de 4to año en Ing. en Informática.<br>🔭 Cada día intento avanzar un poco mas.<br>👨‍💻 Freelancer.<br>🌱 "Nunca hay desanimar a nadie que continuamente hace progresos, <br>no importa lo lento que vaya".
+👤 Egresado de Ing. en Informática.<br>🔭 Cada día intento avanzar un poco mas.<br>👨‍💻 Freelancer.<br>🌱 "Nunca hay desanimar a nadie que continuamente hace progresos, <br>no importa lo lento que vaya".
 
 
 ## 🌐 Socials:
