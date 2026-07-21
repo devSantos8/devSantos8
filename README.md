@@ -2,7 +2,7 @@
 
 `Ingeniero en Informática | FullStack Developer (Frontend/Backend/DevOps/DataBase)`
 
-Soy un Ingeniero en Informática enfocado en el desarrollo de soluciones eficientes y la calidad de software. Construyo proyectos desde la planificación y el diseño inicial hasta la resolución de problemas reales con código. Me apasiona el ecosistema web y sigo muy de cerca la evolución del desarrollo asistido por IA (*vibe coding*).
+Ingeniero en Informática especializado en Desarrollo Full Stack & procesos DevOps, con enfoque en la investigación e integración de tecnologías emergentes (GenAI / LLMs) e infraestructura Cloud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmonroys17)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Visitar_Web-000000?style=for-the-badge&logo=netlify&logoColor=white)](http://portafolio-jsantos.netlify.app)
